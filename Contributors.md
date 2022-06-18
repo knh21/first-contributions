@@ -3481,7 +3481,7 @@ add jerry404lee
 - [Casey Toy](https://github.com/ROSEHlPS)
 - [Sadid Idibekov](https://github.com/Sadid-USN)
 - [Edward Smakov](https://github.com/esmakov)
-- [Kyle Hill](https://github.com/knh21)
+
 - [Chaz Carbis](https://github.com/LilCthulu)
 - [Adit Magotra](https://github.com/AlphaLaser)
 - [Ramiro Solis](https://github.com/Solis1)
@@ -3744,6 +3744,7 @@ add jerry404lee
 - [Mohammed]
 - [Adrian]
 - [karelzel]
+- [Kyle Hill](https://github.com/knh21)
 - [Gboyega Dada](https://github.com/gboyegadada)
 - [Nima](https://github.com/n13a)
 - [vhouriet](https://github.com/vhouriet)
@@ -7395,4 +7396,4 @@ add jerry404lee
 - [akhademigod](https://github.com/akhademigod)
 - [olidiaks](https://github.com/olidiaks)
 - [Denny Thomas](https://github.com/smash-cracker)
-<!-- prettier-ignore-end -->
+<!-- prettier-ignore-end -->l
